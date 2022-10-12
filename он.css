@@ -1,19 +1,19 @@
 body {
-	background-image: url(https://static.wikia.nocookie.net/hello-neighbor-game/images/9/9f/Room.png/revision/latest/scale-to-width-down/1000?cb=20200428081759&path-prefix=ru);
+	background-image: url(Brick_yellow_dif.webp);
 }
 
 h1{
-	color: white;
+	color: black;
 }
 
 a {
-	color: white;
+	color: black;
 	position: relative;
 	left: 450px;
 }
 
 h1 {
-	color: white;
+	color: black;
 	position: relative;
 	left: 300px;
 }
